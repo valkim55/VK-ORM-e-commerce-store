@@ -1,0 +1,1 @@
+# VK-ORM-e-commerce-store
